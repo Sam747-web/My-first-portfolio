@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title><base_index</title>
+        <meta charset=UFT-8>
+        </head>
+        <body>
+        <h1>welcome to my page</h1>
+        <p>This is my base_index webpage</p>
+        </body>
+        <h2>There is intersting content here</h2>
+        <h3>You will like my page</h3>
+       < https://i.ibb.co/gTDZZT8/ALX-Logo-07.png>
+       </https:>
+    </body>
+    <html>
+</header>
+            <main>
+                <article>
+                    <blockquote class="twitter-tweet">
+                        <p lang="en" dir="ltr">This is an example tweet for embedding. 
+                        <a href="https://twitter.com/TwitterDev/status/560070183650213889">January 27, 2015</a></p>
+                    </blockquote>
+                </article>
+                <aside>
+                    <p>Placeholder to add comment thread later</p>
+                </aside>
+            </main>
+            <footer>
+                <p>Made by Your Name - <a href="https://example.com" target="_blank">here</a></p>
+            </footer>
+        </body>
+</html>
+        table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Age</th>
+                <th>Country</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>John</td>
+                <td>25</td>
+                <td>USA</td>
+            </tr>
+            <tr>
+                <td>Emily</td>
+                <td>28</td>
+                <td>Canada</td>
+            </tr>
+            <tr>
+                <td>Michael</td>
+                <td>32</td>
+                <td>Australia</td>
+            </tr>
+            <tr>
+                <td>Sophia</td>
+                <td>21</td>
+                <td>UK</td>
+            </tr>
+        </tbody>
+    </table>
