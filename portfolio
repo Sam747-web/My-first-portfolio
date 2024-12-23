@@ -1,0 +1,54 @@
+!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Samuel Amoah - Personal Portfolio</title>
+    </head>
+    <body>
+        <header>
+            <h1>Samuel Amoah</h1>
+            <p>Aspiring Developer and Innovator</p>
+        </header>
+        <nav>
+            <ul>
+                <li><a href="#introduction">Introduction</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+        <section id="introduction">
+            <h2>Introduction</h2>
+            <p>Hello! I am an aspiring developer with a passion for learning and building innovative solutions.</p>
+        </section>
+        <section id="projects">
+            <h2>Projects</h2>
+            <article class="project">
+                <h3>Project 1</h3>
+                <p>A brief description of Project 1.</p>
+                <a href="https://example.com/project1" target="_blank">View Project</a>
+            </article>
+            <article class="project">
+                <h3>Project 2</h3>
+                <p>A brief description of Project 2.</p>
+                <a href="https://example.com/project2" target="_blank">View Project</a>
+            </article>
+        </section>
+        <section id="about">
+            <h2>About Me</h2>
+            <p>I am passionate about technology, education, and innovation.</p>
+        </section>
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>Email: <a href="mailto:your.email@example.com">Samuelamoah075@gmail.com</a></p>
+            <p>
+                <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a> | 
+                <a href="https://github.com/yourprofile" target="Sam747-web">GitHub</a>
+            </p>
+        </section>
+        <footer>
+            <p>&copy; 2024 Samuel Amoah</p>
+        </footer>
+    </body>
+    </html>  
