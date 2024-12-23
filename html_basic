@@ -14,3 +14,19 @@
        </https:>
     </body>
     <html>
+</header>
+            <main>
+                <article>
+                    <blockquote class="twitter-tweet">
+                        <p lang="en" dir="ltr">This is an example tweet for embedding. 
+                        <a href="https://twitter.com/TwitterDev/status/560070183650213889">January 27, 2015</a></p>
+                    </blockquote>
+                </article>
+                <aside>
+                    <p>Placeholder to add comment thread later</p>
+                </aside>
+            </main>
+            <footer>
+                <p>Made by Your Name - <a href="https://example.com" target="_blank">here</a></p>
+            </footer>
+        </body>
